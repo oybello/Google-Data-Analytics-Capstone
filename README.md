@@ -1,6 +1,6 @@
 # Google-Data-Analytics-Capstone
-Study on How to Maximize the Profit Margin and Widen the Customer-base of a Motor-bike Company - Cyclistics
-Currently, cyclist has 2 kinds of customers: casual riders & annual members.
+Study on How to Maximize the Profit Margin and Widen the Customer-base of a Motor-bike Company - Cyclistics.
+Currently, Cyclistic has 2 kinds of customers: casual riders & annual members.
 Casual riders purchase single-ride or full-day passes, while annual members purchase annual membership and also dominate patronage.
 
 Consequently, the company wants to convert casual members to annual members in order to increase annual patronage and maximize yearly profit-margin significantly.
