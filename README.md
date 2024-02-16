@@ -5,5 +5,6 @@ Casual riders purchase single-ride or full-day passes, while annual members purc
 
 Consequently, the company wants to convert casual members to annual members in order to increase annual patronage and maximize yearly profit-margin significantly.
 
+
 ![image](https://github.com/oybello/Google-Data-Analytics-Capstone/assets/86603958/ca0a943f-8f72-46c1-b0eb-daec7284acc4)
 
